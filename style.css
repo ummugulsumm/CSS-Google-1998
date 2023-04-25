@@ -1,0 +1,75 @@
+.container {
+    display: block;
+    text-align: -webkit-center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.search {
+    padding-top: 1px;
+    padding: auto;
+    background-color: #EEEEEE;
+    width: 1210px;
+    height: 60px;
+}
+
+button {
+    padding: 1px 6px;
+}
+
+input {
+    box-sizing: border-box;
+    padding: 1px 2px;
+    width: 317px;
+    height: 21px;
+  
+}
+
+.boxes {
+    display: block;
+    text-align: -webkit-center;
+    width: 1210px;
+    height: 75px;
+    margin-top: 2px;
+}
+
+.bx-left {
+    width: 35%;
+    background-color: #7EE5DA;
+    float: left;
+    padding: 11px;
+    margin-right: 2px;
+}
+
+.bx-medium {
+    font-size: small;
+    background-color: #70CCC2;
+    float: left;
+    padding: 6px;
+    margin-right: 2px;
+    width: 18.5%;
+
+}
+
+.bx-right {
+    width: 43%;
+    background-color: #62B3AA;
+    float: left;
+    font-size: small;
+    
+}
+
+.date {
+    margin-top: 3px;
+    font-size: small;
+}
+
+#uemail {
+    width: 177px;
+}
+
+#subscribe {
+    margin-bottom: 1px;
+    margin-right: 7px;
+}
